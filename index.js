@@ -1,6 +1,6 @@
 // testando com if, else if, else
 let nickname = "Mohg"
-let quantidadeExp = 8630
+let quantidadeExp = 1002
 let nivel = ""
 
 if(quantidadeExp === 0 || quantidadeExp <= 1000){
