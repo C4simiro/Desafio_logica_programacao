@@ -1,6 +1,7 @@
 //testando com switch, case, default
 let nickname = "Mohg"
 let quantidadeExp = "x"
+let nivel = ""
 
 switch (true){
 	case quantidadeExp === 1 || quantidadeExp <= 1000:
