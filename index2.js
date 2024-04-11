@@ -4,7 +4,7 @@ let quantidadeExp = "x"
 let nivel = ""
 
 switch (true){
-	case quantidadeExp === 1 || quantidadeExp <= 1000:
+    case quantidadeExp === 1 || quantidadeExp <= 1000:
 		nivel = "Ferro"
 	break
 	case quantidadeExp === 1001 || quantidadeExp <= 2000:

@@ -1,6 +1,6 @@
 // testando com if, else if, else
 let nickname = "Mohg"
-let quantidadeExp = 1002
+let quantidadeExp = "x"
 let nivel = ""
 
 if(quantidadeExp === 0 || quantidadeExp <= 1000){
@@ -35,5 +35,8 @@ else if(quantidadeExp >= 10001){
 	nivel = "Radiante"
     //console.log("Radiante")
 }
+else(quantidadeExp)
+	nivel = "Sem patente"
+	//console.log("Sem patente")
 
 console.log ("O Héroi de nome " + nickname + " está no nível " + nivel)
